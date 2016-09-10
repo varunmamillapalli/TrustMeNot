@@ -1,4 +1,4 @@
-# TrustMeNot
+# TrustMeNot (subject to change)
 
 Version 1: Prototype
  - Enter a domain name/ provide an excel sheet(for multiple domains)  -> Make an API call to URLVoid and VirusTotal to check for reputation. 
